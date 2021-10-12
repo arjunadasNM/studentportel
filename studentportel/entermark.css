@@ -1,0 +1,14 @@
+.center
+{position:absolute;
+border:2px solid green;
+padding :40px;
+top:30%;
+left:40%;
+}
+input[type="text"]
+{
+
+float:right;
+}
+label{
+line-height:30px;}

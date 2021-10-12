@@ -1,0 +1,31 @@
+body{
+background-image: url("ttt.jpg");
+background-repeat:no-repeat;
+background-size: 100%;
+margin:0;
+padding:0;
+}
+.center{
+color: white;
+border:2px solid DodgerBlue;
+position:absolute;
+top:20%;
+left:30%;
+width:320px;
+border-radius:10px;
+padding: 90px}
+
+table{
+
+color: white;}
+
+#hh{width:320px;
+height:40px;}
+#gg{width:320px;
+height:40px;}
+#tt{width:320px;
+height:40px;
+#cc{
+width:320px;
+height:40px;}
+

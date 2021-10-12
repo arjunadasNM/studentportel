@@ -1,0 +1,20 @@
+.center{
+color: green;
+border:2px solid DodgerBlue;
+position:absolute;
+top:20%;
+left:30%;
+width:320px;
+
+border-radius:10px;
+padding: 90px}
+
+input[type="text"],input[type="number"]
+{
+float:right;
+
+}
+label{
+line-height:30px;}
+body{
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));}

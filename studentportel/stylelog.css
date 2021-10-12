@@ -1,0 +1,14 @@
+body{
+background-image: url("bg.jpg");
+background-size: 100%;}
+
+
+.center
+{color: red;
+border:2px solid DodgerBlue;
+position:absolute;
+top:30%;
+left:35%;
+width:320px;
+border-radius:10px;
+padding: 90px}
